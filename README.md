@@ -47,10 +47,6 @@ For modeling, we tried various classification algorithms like:
 Tuning the hyperparameters of respective algorithms is necessary for getting better accuracy and to avoid overfitting in the case of tree-based models like and XGBoost classifier.
 
 
-### performance matrix
-![](https://github.com/rahul-kr-soni/new/blob/main/ccd/Screenshot%202022-02-21%20at%2011.21.15%20PM.png)
-![](https://github.com/rahul-kr-soni/new/blob/main/ccd/Screenshot%202022-02-21%20at%2011.21.48%20PM.png)
-
 
 ## Conclusion
 From the project we can conclude that the default rate is higher for males, increases as the education increases, and also increases as the age of a person increases. i.e clients whose age over 60 was higher than mid-age and young people. In all of these models, our recall revolves in the range of 76 to 84%.with the best fit model as XGboost
