@@ -44,7 +44,7 @@ For modeling, we tried various classification algorithms like:
 
 
 ### Tuning the hyperparameters for better recall
-Tuning the hyperparameters of respective algorithms is necessary for getting better accuracy and to avoid overfitting in the case of tree-based models like and XGBoost classifier.
+Tuning the hyperparameters of respective algorithms is necessary for getting better accuracy and to avoid overfitting in the case of tree-based models like decision tree and XGBoost classifier.
 
 
 
